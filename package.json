@@ -1,0 +1,14 @@
+{
+  "name": "com.varollo.package_name",
+  "version": "1.0.0",
+  "displayName": "Package Name",
+  "description": "This is a template for Unity packages, please modify it.",
+  "unity": "2019.1",
+  "keywords": [],
+  "author": {
+    "name": "Gabriel Carollo (Varollo)",
+    "email": "rimoldi98@gmail.com",
+    "url": "http://varollo.github.io"
+  },
+  "type": "template"
+}
